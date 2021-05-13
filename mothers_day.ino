@@ -1,12 +1,13 @@
-#include <TFT_eSPI.h>
-
 #include <SD.h>
+#include <sd_defines.h>
+#include <sd_diskio.h>
+
+#include <TFT_eSPI.h>
 
 #include <SPI.h>
 
 #include <TJpg_Decoder.h>
 
-#include <TFT_eSPI.h>
 
 #include <Adafruit_STMPE610.h>
 
